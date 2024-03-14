@@ -23,10 +23,10 @@
 - https://dl.acm.org/citation.cfm?id=3152556
 - https://dl.acm.org/citation.cfm?id=2830172
 - https://arxiv.org/pdf/2006.14784.pdf
-- https://fosdem.org/2018/schedule/event/computecanada/
 
 ### Events
 - https://fosdem.org/2023/schedule/event/nix_and_nixos_playing_with_nix_in_hpc_environments/
+- https://fosdem.org/2018/schedule/event/computecanada/
 
 ### Other
 - the guix-hpc tool: https://guix-hpc.bordeaux.inria.fr/ 
