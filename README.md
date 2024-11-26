@@ -9,6 +9,7 @@
 - datamove: https://github.com/oar-team/nur-kapack
 - quantum chemistry packages: https://github.com/markuskowa/NixOS-QChem
 - BSC: https://pm.bsc.es/gitlab/rarias/bscpkgs
+- preCICE: https://github.com/precice/nix-packages
 
 ### Tutorials
 - reproducible experiments: https://nix-tutorial.gitlabpages.inria.fr/nix-tutorial/
